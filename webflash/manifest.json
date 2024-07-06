@@ -1,5 +1,5 @@
 {
-    "name": "ESP32-Cheap-Yellow-Display-Electronic-Shelf-Label-with-Google-Firebase",
+    "name": "ESP32 CYD ESL with Firebase",
     "new_install_prompt_erase": true,
     "builds": [
       {
